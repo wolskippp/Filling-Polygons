@@ -1,0 +1,9 @@
+E:\Visual studio apps\LAb4\LAb4\bin\Debug\LAb4.exe.config
+E:\Visual studio apps\LAb4\LAb4\bin\Debug\LAb4.exe
+E:\Visual studio apps\LAb4\LAb4\bin\Debug\LAb4.pdb
+E:\Visual studio apps\LAb4\LAb4\obj\Debug\LAb4.csprojResolveAssemblyReference.cache
+E:\Visual studio apps\LAb4\LAb4\obj\Debug\LAb4.Form1.resources
+E:\Visual studio apps\LAb4\LAb4\obj\Debug\LAb4.Properties.Resources.resources
+E:\Visual studio apps\LAb4\LAb4\obj\Debug\LAb4.csproj.GenerateResource.Cache
+E:\Visual studio apps\LAb4\LAb4\obj\Debug\LAb4.exe
+E:\Visual studio apps\LAb4\LAb4\obj\Debug\LAb4.pdb
